@@ -1,5 +1,5 @@
 Creating a new branch is quick AND simple sdf.
 Git is a free software.
 crlf test
-中文编码设置
-换行设置
+涓枃缂栫爜璁剧疆
+鎹㈣璁剧疆
